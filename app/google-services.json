@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282298114910",
+    "firebase_url": "https://chaurideurali-municipali-dcd41.firebaseio.com",
+    "project_id": "chaurideurali-municipali-dcd41",
+    "storage_bucket": "chaurideurali-municipali-dcd41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282298114910:android:fd6ffa11838837b9",
+        "android_client_info": {
+          "package_name": "com.example.chaurideuralimunicipality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282298114910-nt0obmmdeu6gqap76um3tv2thou6sqed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaurideuralimunicipality",
+            "certificate_hash": "d42f80e5aad9e3842cf560b42bfdf556c213890e"
+          }
+        },
+        {
+          "client_id": "282298114910-hdik6iggh018s2a1hahbcl4396ifbjv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGNQIG6LOb6ezUql4tNvHasLaUTUdA8cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282298114910-hdik6iggh018s2a1hahbcl4396ifbjv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

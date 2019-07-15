@@ -1,0 +1,334 @@
+<resources>
+    <string name="app_name">SmartChauriDeurali</string>
+    <string name="email_address">ito.chaurideuralimun@gmail.com</string>
+    <string name="website">http://chaurideuralimun.gov.np</string>
+    <string name="facebook_link">https://www.facebook.com/chaurideuralimun</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--mayor details-->
+
+    <!--vice mayor details-->
+    <!--wards name-->
+
+    <!--ward one details-->
+    <string name="ward_1_name">वडा नं. १ सानो वाङथली</string>
+    <string name="ward_1_population">१५०९</string>
+    <string name="ward_1_contact_number">९८५१२१२३४५</string>
+
+    <!--ward 2 details-->
+    <string name="ward_2_name">वडा नं. २ नाग्रे गगर्चे</string>
+    <string name="ward_2_population">१५०९</string>
+    <string name="ward_2_contact_number">९८१८०३२१६०</string>
+    <string name="lan2">27.6021N</string>
+    <string name="lon2">85.8568E</string>
+
+    <!--ward three details-->
+    <string name="ward_3_name">वडा नं. ३ माझीफेदा</string>
+    <string name="ward_3_population">२६६९</string>
+    <string name="ward_3_contact_number">९८५११००२५२</string>
+    <string name="lan3">27.5902N</string>
+    <string name="lon3"> 85.8339E</string>
+
+
+    <!--ward 4 details-->
+    <string name="ward_4_name">वडा नं. ४ धुसेनी</string>
+    <string name="ward_4_population">२०५०</string>
+    <string name="ward_4_contact_number">९८५१०५००१६</string>
+    <string name="lan4">27.5992N</string>
+    <string name="lon4"> 85.7978E</string>
+
+    <!--ward five details-->
+    <string name="ward_5_name">वडा नं. ५ पोखरीचौंंरी</string>
+    <string name="ward_5_population">३६०३</string>
+    <string name="ward_5_contact_number">९८४९२६२९५०</string>
+
+    <string name="lan5">27.5779N</string>
+    <string name="lon5"> 85.8009E</string>
+
+    <!--ward 6 detaisl-->
+    <string name="ward_6_name">वडा नं. ६</string>
+    <string name="ward_6_population">३०६१</string>
+    <string name="ward_6_contact_number">९८४११००४५६</string>
+    <string name="lan6">27.5562N</string>
+    <string name="lon6"> 85.8024E</string>
+
+    <!--ward 7 detaisl-->
+    <string name="ward_7_name">वडा नं. ७ मादन कुडाँरी</string>
+    <string name="ward_7_population">१८९७</string>
+    <string name="ward_7_contact_number">९८४१२०३२४१</string>
+    <string name="lan7">27.5290N</string>
+    <string name="lon7"> 85.8029E</string>
+
+    <!--ward 8 details-->
+
+    <!--ward nine details-->
+    <string name="ward_9_name">वडा नं. ९ गोठपानी</string>
+    <string name="ward_9_population">१५३१</string>
+    <string name="ward_9_contact_number">९८१३७६७१६८</string>
+    <string name="lan9">27.5806N</string>
+    <string name="lon9">85.7710E</string>
+
+    <string name="higher_postion_tile">अध्यक्ष</string>
+    <string name="second_higher_postion_tile">उपाध्यक्ष</string>
+    <string name="mayor_name">दिननाथ गौतम</string>
+    <string name="chairman_name">दतारा कुमारी चौलागाईं</string>
+    <string name="mayor_contact_number">९८५१२४३०७१</string>
+    <string name="chairman_contact_number">९८५१२४३०८१</string>
+
+    85.7710E
+
+    <string name="title_notice">Notice</string>
+    <string name="title_ward">Ward</string>
+    <string name="title_program">Program</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_aboutus">About Us</string>
+    <string name="title_contactus">Contact Us</string>
+
+    <!--ward details-->
+    <!--1-->
+    <string name="ward_1">वडा नं. ९ गोठपानी</string>
+    <!--2-->
+    <string name="ward_2">वडा नं. २ नाग्रे गगर्चे</string>
+    <!--3-->
+    <!--4-->
+    <string name="ward_4">वडा नं. ४ धुसेनी</string>
+    <!--5-->
+    <string name="ward_5">वडा नं. ५ पोखरीचौंंरी</string>
+    <!--6-->
+    <string name="ward_6">वडा नं. ६ कात्तिके देउराली</string>
+    <!--7-->
+    <string name="ward_7">वडा नं. ७ मादन कुडाँरी</string>
+    <!--8-->
+    <string name="ward_8">वडा नं. ८ विर्ता देउराली</string>
+    <!--9-->
+    <string name="ward_9">वडा नं. ९ गोठपानी</string>
+
+
+    <!--ward members-->
+    <!--1-->
+    <string name="name_11">राजु आले तामाङ</string>
+    <string name="post_1">वडा अध्यक्ष</string>
+    <string name="number_11">९८५१०७७४५४</string>
+
+    <string name="post_2">वडा सदस्य</string>
+    <string name="name_12">पेम्बा सिंह तामाङ</string>
+    <string name="number_12">९८५१०७७४५४</string>
+
+    <string name="name_13">पचन्द्रमान तामाङ</string>
+    <string name="number_13">९८४१२२९३८६</string>
+
+    <string name="name_14">देवी सुनार</string>
+    <string name="number_14">९८२३२४९६२३</string>
+
+    <string name="name_15">उर्वु तामाङ</string>
+    <string name="number_15">९८१८७७०९२</string>
+
+    <!--2-->
+    <string name="name_21">दिनेश लामा</string>
+
+    <string name="number_21">९८५१२४३०८७</string>
+
+
+    <string name="name_22">पदेव बहादुर प्रधान</string>
+    <string name="number_22">९८१८६०६७८३</string>
+
+    <string name="name_23">छत्र बहादुर प्रधान</string>
+    <string name="number_23">९८१८२९६८२४</string>
+
+    <string name="name_24">सुकलक्ष्मी नेपाली दमाई</string>
+    <string name="number_24">९८४९५७७८६०</string>
+
+    <string name="name_25">सिर्जना पौडेल तिमल्सिना</string>
+    <string name="number_25">९८०३०२४१६४</string>
+    <!--3-->
+    <string name="name_31">दिनोद घिसिङ</string>
+
+    <string name="number_31">९८५१२५३०७२</string>
+
+
+    <string name="name_32">भोज बहादुर गौतम</string>
+    <string name="number_32">९८४१७७४९१०</string>
+
+    <string name="name_33">चित्र प्रसाद चौलागाई</string>
+    <string name="number_33">९८५६०३०१८१</string>
+
+    <string name="name_34">ससुभद्रा विश्‍वकर्मा</string>
+    <string name="number_34">९८४१४२०९३०</string>
+
+    <string name="name_35">सकुसुम लामा</string>
+    <string name="number_35">९८४१४७७२२३</string>
+    <!--4-->
+    <string name="name_41">दसुरेश कुमार लामा</string>
+
+    <string name="number_41">९८५१२५३७०९</string>
+
+
+    <string name="name_42">नविन गौतम</string>
+    <string name="number_42">९८५१००५३२४</string>
+
+    <string name="name_43">चदिलिप लामा</string>
+    <string name="number_43">९८४९५०७४५०</string>
+
+    <string name="name_44">देवमाया सुनार </string>
+    <string name="number_44">९८१३८४९४६९</string>
+
+    <string name="name_45">डिल्लीमाया श्रेष्‍ठ</string>
+    <string name="number_45">९८६०२०९८३९</string>
+    <!--5-->
+    <string name="name_51">दराज कुमार गौतम</string>
+    <string name="number_51">९८५१२४१५०३</string>
+
+    <string name="name_52">चेतमाया चौलागाई</string>
+    <string name="number_52">9843368856</string>
+
+    <string name="name_53"> बाबुराम चौलागाई</string>
+    <string name="number_53">९७५१००५५५९</string>
+
+    <string name="name_54">छत्र बहादुर कोइराला </string>
+    <string name="number_54">९८४९२६८०२४</string>
+
+    <string name="name_55">निर्मला दमाईठ</string>
+    <string name="number_55">९८१३६३११८५</string>
+    <!--6-->
+    <string name="name_61"> रेशम प्रसाद चौंलागाईं</string>
+    <string name="number_61">९८५१२४१५०६</string>
+
+    <string name="name_62">होम प्रसाद दुलाल</string>
+    <string name="number_62">९७४१०१५३२१</string>
+
+    <string name="name_63"> राजेन्द्र प्रसाद वास्कोटा</string>
+    <string name="number_63">९८४११०३२३८</string>
+
+    <string name="name_64">जुलुम परियार </string>
+    <string name="number_64">९८१८५५७९१९</string>
+
+    <string name="name_65">विष्णुमाया गौतम</string>
+    <string name="number_65">९७४१२२८९१०</string>
+    <!--7-->
+    <string name="name_71">विरवल लामा</string>
+    <string name="number_71">९८५१२५४७०३</string>
+
+    <string name="name_72">झम्क बहादुर गौतम</string>
+    <string name="number_72">९८१३३३७०४६</string>
+
+    <string name="name_73"> ङेमा लामा</string>
+    <string name="number_73">९८४९३३१६३६</string>
+
+    <string name="name_74">तुलसी गजमेर </string>
+    <string name="number_74">९८१८५५७९१९</string>
+
+    <string name="name_75">चिनीमाया लामा</string>
+    <string name="number_75">९८०८६८५१०७</string>
+    <!--8-->
+    <string name="name_81">धन बहादुर तामाङ</string>
+    <string name="number_81">९८५१२५३८०७</string>
+
+    <string name="name_82">रमला पन्त</string>
+    <string name="number_82">९८०३८४१००२</string>
+
+    <string name="name_83"> उद्धव प्रसाद चौलागाई</string>
+    <string name="number_83">९८१३५५३१२५</string>
+
+    <string name="name_84">गिता वि.क. </string>
+    <string name="number_84">९८१०२०५१२९</string>
+
+    <string name="name_85"> लक्ष्मी कुँवर</string>
+    <string name="number_85">९८०८९०३६२८</string>
+    <!--9-->
+    <string name="name_91">राम बहादुर लामा</string>
+    <string name="number_91">९८५१२५४७०८</string>
+
+    <string name="name_92">पासाङ लामा</string>
+    <string name="number_92">९८०३२०००१६</string>
+
+    <string name="name_93">नारायण प्रसाद चौलागाई</string>
+    <string name="number_93">९८१०२५५४९०</string>
+
+    <string name="name_94">मसिनी दमिनि </string>
+    <string name="number_94">९८०३४०१३९७</string>
+
+    <string name="name_95">हसनी तामाङ</string>
+    <string name="number_95">९८०८००६८४५</string>
+
+    <!--pd details-->
+    <!--pd1-->
+    <string name="pd1_name">बलराम लम्साल</string>
+    <string name="pd1_post">प्रमुख प्रशासकीय अधिकृत</string>
+    <!--pd2-->
+
+    <string name="pd2_name">महान दास लामा</string>
+    <string name="pd2_post">वि.नि</string>
+    <string name="pd2_email">mahandaslama26@gmail.com</string>
+    <string name="pd2_number">९८४१३३४९७१</string>
+    <!--pd3-->
+
+    <string name="pd3_name">सालिकराम नेपाल</string>
+    <string name="pd3_post">ना.सु</string>
+    <string name="pd3_number">९८४१५०२९४१</string>
+    <!--pd4-->
+    <string name="pd4_name">ध्रुव प्रसाद गौतम</string>
+    <string name="pd4_post">लेखापाल</string>
+    <string name="pd4_email">gautamdhrubag@gmail.com</string>
+    <string name="pd4_number">९८४१२७६३१६</string>
+    <!--pd5-->
+    <string name="pd5_name">तेज घिसिङ</string>
+    <string name="pd5_post">स्वास्थ्य संयोजक</string>
+    <string name="pd5_email">ghisingtej1113@gmail.com</string>
+    <string name="pd5_number">९८४१७३६२६१</string>
+    <!--pd6-->
+    <string name="pd6_name">अनिल कुमार शर्मा</string>
+    <string name="pd6_post">प्राविधिक सहायक</string>
+    <string name="pd6_email">anil.sharma0971@gmail.com</string>
+    <string name="pd6_number">९८४७१३४९७१</string>
+    <!--pd7-->
+    <string name="pd7_name">विजय कुमार थापा</string>
+    <string name="pd7_post">प.स्वा.प्रा</string>
+    <string name="pd7_number">९८४३४९३१९०</string>
+    <!--pd8-->
+    <string name="pd8_name">दिवश श्रेष्‍ठ</string>
+    <string name="pd8_post">ना.सु</string>
+
+    <!--pd10-->
+
+    <string name="pd9_name">कपिलदेव दाहाल</string>
+    <string name="pd9_post">खरिदार</string>
+
+    <!--p11-->
+    <string name="pd10_name">प्रमिला गौतम</string>
+    <string name="pd10_post">कम्‍प्युटर सहायक</string>
+    <string name="pd10_email">pramilagautam5842@gmail.com</string>
+    <string name="pd10_number">९८४९१५५८४२</string>
+    <!--p12-->
+    <string name="pd11_name">निर्मल वावु खड्का</string>
+    <string name="pd11_post">सव इन्जिनियर</string>
+    <string name="pd11_email">khadkanirmal31@gmail.com</string>
+    <string name="pd11_number">९८४९६१९३३७</string>
+    <!--p13-->
+    <string name="pd12_name">कृष्‍ण भण्डारी</string>
+    <string name="pd12_post">सव इन्जिनियर</string>
+    <string name="pd12_number">९८४१३२२४१२</string>
+    <string name="todo">TODO</string>
+    <string name="about_us">
+        काभ्रेपलाञ्चोक जिल्ला अन्तर्गत साविक ८७ वटा गा.वि.स. र ५ वटा
+        नगरपालिकालाई पुर्नसंरचना गरी हाल निर्मित ६ वटा नगरपालिका र ७ वटा गाउँपालिका
+        सहित १३ वटा स्थानीय तहमध्येे  पूर्वमा चौंरीखोला पारी रहेको रामेछापको सुनपाती
+        गाउँपालिका र दोरम्बा गाउँपालिका, पश्चिममा काभ्रेको भुम्लु गाउँपालिका, उत्तरमा
+        सिन्धुपाल्चोकको लिसंखुपाखर गाउँपालिका र दक्षिणमा सुनकोशी पारी रहेको तेमाल
+        गाउँपालिका भित्रको ९९.५४ वर्ग कि.मि. क्षेत्रफल रहेको  चौंरीदेउराली
+        गाउँपालिका भित्र ०६८ को जनगणना अनुसार ४६६४ घरपरिवारमा २०८२९ जनसंख्या
+        रहेको छ । साथै यस गाउँपालिकाको वडा नं. २ अन्तर्गत गगर्चे भन्ने गाउँमा
+        सिन्धुपाल्चोक, दोलखा, रामेछाप र काभ्रे गरी ४ वटा जिल्लाको सिमाना सङ्गमस्थल
+        (मिट प्वोइन्ट) रहेको छ । यस गाउँपालिका भित्र साविकका नाग्रे गगर्चे, सानो बाङ्थली,
+        माझीफेदा, धुसेनी शिवालय, पोखरीचौंरी, गोठपानी, कात्तिके देउराली, मादन  कुँडारी र
+        विर्ता देउराली सहित ९ वटा वडा गा.वि.स. हरु मिलाएर प्रत्येक गा.वि.स. लाई १ वडा
+        नघट्ने गरी ९ वटा कायम भएको र परापूर्वकाल देखि साविकको सबै गाउँवस्तीहरुलाई
+        चौंरी थुमका आधारमा, पुकारिँदै आएको ऐतिहासिक तथ्यका आधार र चार वटा मुख्य
+        देउरालीहरु समेत रहेको हुँदा चौंरी र देउराली जोडेर यस गाउँपालिकाको नाम
+        चौंरीदेउराली रहेको छ।
+    </string>
+
+
+</resources>
+
+

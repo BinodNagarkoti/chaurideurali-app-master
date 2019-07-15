@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.About_us"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/about_us_toolbar"
+        layout="@layout/toolbar"/>
+
+    <ImageView
+        android:id="@+id/contact_us_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:scaleType="fitXY"
+        android:src="@mipmap/cover"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/contact_us_information"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/details_information"
+        android:text="@string/about_us"
+        android:gravity="center"
+        android:textColor="@android:color/black"/>
+
+
+</LinearLayout>
